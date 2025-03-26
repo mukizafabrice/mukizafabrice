@@ -46,16 +46,12 @@
   <img src="https://cdn.iconscout.com/icon/free/png-64/tailwindcss-1174974.png" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=mukizafabrice">
-    <img src="https://github-profile-trophy.vercel.app/?username=mukizafabrice&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
+
+### 📈 GitHub Stats
+
+![Fabrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&theme=algolia)
 </p>
 
----
 
-Let me know if you'd like any more modifications! 🚀🔥
