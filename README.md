@@ -18,14 +18,11 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mukizafabrice/" target="blank">
+  <a href="in/nshimyumukiza-fabrice-b55751256" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="24" width="24" />
   </a>
-  <a href="https://www.instagram.com/mukizafabrice/" target="blank">
+  <a href="https://www.instagram.com/fabr1ce_r/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="24" width="24" />
-  </a>
-  <a href="https://www.youtube.com/c/mukizafabrice" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="YouTube" height="24" width="24" />
   </a>
 </p>
 
