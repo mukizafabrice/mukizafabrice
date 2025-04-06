@@ -7,13 +7,20 @@
 
 ---
 
-### 🚀 About Me
-
-- 💻 I specialize in **Node.js, React.js, PHP, JavaScript, and AI with Python**  
-- 🌱 Currently exploring **Machine Learning and Backend Scalability**  
-- 📧 Reach me at **mukizafabrice18@gmail.com**  
+Sure! Here's the updated version with **Java** and **React Native** added to your skillset:
 
 ---
+
+### 🚀 About Me
+
+- 💻 I specialize in **Node.js, React.js, React Native, PHP, JavaScript, Java, and AI with Python**  
+- 🌱 Currently exploring **Machine Learning and Backend Scalability**  
+- 🎓 Currently enrolled at **RP Ngoma College (Information Technology)** and **University of the People (Computer Science)**  
+- 📧 Reach me at **mukizafabrice18@gmail.com**
+
+---
+
+Let me know if you'd like to include a portfolio link or GitHub profile as well.
 
 ### 🌐 Connect with Me
 
