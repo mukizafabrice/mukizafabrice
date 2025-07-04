@@ -14,9 +14,7 @@
 - 🎓 Currently enrolled at **RP Ngoma College (Information Technology)** and **University of the People (Computer Science)**  
 - 📧 Reach me at **mukizafabrice18@gmail.com**
 
----
 
-Let me know if you'd like to include a portfolio link or GitHub profile as well.
 
 ### 🌐 Connect with Me
 
