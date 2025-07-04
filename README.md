@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mukizafabrice&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
 
-Sure! Here's the updated version with **Java** and **React Native** added to your skillset:
-
----
 
 ### 🚀 About Me
 
