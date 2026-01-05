@@ -53,6 +53,7 @@
 
 
 ### 📈 GitHub Stats
+<p>
 
 ![Fabrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&theme=algolia)
 </p>
