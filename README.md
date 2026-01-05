@@ -44,8 +44,9 @@
   <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-64/git-18-1175219.png" alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-64/tailwindcss-1174974.png" alt="Tailwind CSS" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/frappe-3521370.png"
+  <img src="https://cdn.simpleicons.org/frappe/0089FF"
      alt="Frappe Framework" width="40" height="40"/>
+
 </p>
 
 
