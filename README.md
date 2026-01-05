@@ -57,13 +57,17 @@ I enjoy building practical software that solves real-world problems, particularl
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&theme=algolia&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukizafabrice&theme=algolia&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&theme=default&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&theme=algolia&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukizafabrice&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&theme=default" />
+</p>
+
 
 ---
 
