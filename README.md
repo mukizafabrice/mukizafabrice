@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 💻 I specialize in **Node.js, React.js, React Native, PHP, JavaScript, Java, and AI with Python**  
-- 🌱 Currently exploring **Machine Learning and Backend Scalability**  
+- 💻 I specialize in **Node.js, React.js, React Native, PHP, JavaScript, Java, Frappe and AI with Python**  
+- 🌱 Currently exploring **Frappe and ERPNext**  
 - 🎓 Currently enrolled at **RP Ngoma College (Information Technology)** and **University of the People (Computer Science)**  
 - 📧 Reach me at **mukizafabrice18@gmail.com**
 
