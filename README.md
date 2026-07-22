@@ -1,123 +1,122 @@
-<div align="center">
+Act as a senior software engineer and GitHub profile designer.
 
-# Fabrice Nshimyumukiza
+I want you to completely redesign my GitHub Profile README.md to look like a modern professional developer profile (similar to profiles of top open-source engineers).
 
-### Senior Full-Stack Developer | Systems Architect
+The current README feels generic and outdated. Create a clean, modern, minimal, and impressive GitHub profile that focuses on engineering identity, projects, skills, and technical impact.
 
-[![GitHub followers](https://img.shields.io/github/followers/mukizafabrice?style=social)](https://github.com/mukizafabrice)
-[![GitHub stars](https://img.shields.io/github/stars/mukizafabrice?style=social)](https://github.com/mukizafabrice)
+Requirements:
 
-</div>
+1. Design Style:
+- Modern developer aesthetic
+- Minimal but premium look
+- Avoid too many emojis
+- Avoid excessive badges and unnecessary icons
+- Use clean Markdown structure
+- Make it recruiter-friendly
+- Make it look like a serious software engineer profile
+- Use good spacing and visual hierarchy
 
----
+2. Header Section:
+Create an attractive introduction section:
+- My name: Fabrice Nshimyumukiza
+- Title: Full-Stack Developer | AI Enthusiast | Systems Engineer
+- Short professional summary (2-3 lines)
+- Add dynamic elements only if they add value
 
-## 👋 About Me
+3. About Me:
+Rewrite professionally:
+- Full-stack development
+- Enterprise systems
+- ERP/Frappe/ERPNext
+- AI and automation
+- Backend architecture
+- Building scalable solutions
 
-Senior Full-Stack Developer with **5+ years** of experience building enterprise systems. I specialize in **backend architecture**, **healthcare information systems (Frappe/ERPNext)**, and **team leadership**.
+Do not write like a beginner. Make it sound like an engineer who builds real systems.
 
-**Currently:** Senior Backend Developer @ Spiderbit Ltd  
-**Based:** Kigali, Rwanda  
-**Focus:** Enterprise systems, scalable architecture, mentorship
+4. Technical Skills:
+Create a categorized technology section instead of a simple icon list.
 
----
+Categories:
+Frontend:
+- React.js
+- React Native
+- JavaScript
+- TypeScript
+- Bootstrap
 
-## 💼 What I Do
+Backend:
+- Node.js
+- PHP
+- Java
+- Python
 
-- 🏗️ **System Architecture** – Design scalable, production-ready systems
-- 💻 **Full-Stack Development** – React, Node.js, Frappe/ERPNext, PostgreSQL
-- 👥 **Technical Leadership** – Mentor developers, establish standards
-- ⚡ **Performance** – Optimize databases, APIs, complex workflows
-- 🏥 **Healthcare Systems** – EMR, clinic management, patient workflows
+Enterprise:
+- Frappe Framework
+- ERPNext
 
----
+Database:
+- MySQL
+- MongoDB
+- SQLite
 
-## 🎯 Key Projects
+Tools:
+- Git
+- Linux
+- Docker
+- VS Code
 
-### 🏥 Rwanda MOH EMR System
-*Electronic Medical Records platform for national healthcare deployment*
-- Frappe/ERPNext · PostgreSQL · Python · Docker
-- Designed for 1000+ healthcare facilities nationwide
-- [View →](https://github.com/mukizafabrice/moh-emr)
+Use modern skill badges only where useful.
 
-### 🚗 Tira Car Rental Platform
-*Multi-portal fleet management system*
-- React · Node.js · MongoDB · Stripe
-- 100+ daily bookings · 99.2% uptime
-- [View →](https://github.com/mukizafabrice/tira-car-rental)
+5. Featured Projects Section:
+Create a professional project showcase section.
 
-### 🤝 UBridge - Cooperative Governance
-*Digital platform for cooperative management*
-- React · Node.js · MongoDB
-- 150+ active cooperative members
-- [View →](https://github.com/mukizafabrice/ubridge)
+Include placeholders for:
+- ERP/Business Management Systems
+- Healthcare Systems
+- AI Automation Projects
+- Web Applications
 
-### 🏥 Max Cure Clinic Management
-*Integrated clinic operations platform*
-- Frappe/ERPNext · PostgreSQL
-- 500+ patient records · 85% reduction in manual entry
-- [View →](https://github.com/mukizafabrice/max-cure-clinic)
+Each project should have:
+- Project name
+- Short description
+- Technologies used
+- GitHub link placeholder
 
----
+6. GitHub Analytics:
+Keep GitHub statistics but make them visually consistent.
+Use:
+- GitHub Stats
+- Contribution Streak
+- Top Languages
 
-## 🛠️ Tech Stack
+Avoid making the page too long.
 
-**Expert:** JavaScript · TypeScript · React · Node.js · Frappe/ERPNext  
-**Advanced:** Python · PHP · React Native · PostgreSQL · MongoDB · Docker  
-**Infrastructure:** CI/CD · AWS · Linux · Database Optimization
+7. Developer Identity:
+Add a section called "What I Build" or "Engineering Focus":
+Examples:
+- Scalable web applications
+- Enterprise software solutions
+- Automation systems
+- AI-powered applications
+- Clean backend architectures
 
----
+8. Contact Section:
+Create a professional contact area:
+- LinkedIn
+- GitHub
+- Email
 
-## 📊 Quick Stats
+Avoid using random external image icons.
+Use simple SVG badges or modern icons.
 
-✓ **36 repositories** across web, mobile, and enterprise systems  
-✓ **40% performance improvement** in healthcare system optimization  
-✓ **15+ healthcare facilities** using multi-tenant architecture  
-✓ **3+ junior developers** mentored with established standards  
-✓ **98% client satisfaction** on freelance projects  
-✓ **6x faster deployments** through CI/CD optimization  
+9. Technical Requirements:
+- Output only the final README.md code
+- Use valid Markdown
+- No explanations
+- No unnecessary comments
+- Ensure all HTML tags are properly closed
+- Make it compatible with GitHub rendering
+- Use placeholders where information is missing
 
----
-
-## 🚀 What I Bring to Senior Roles
-
-**System Design & Architecture**
-- Design scalable systems from ground up
-- Make informed technology trade-offs
-- Lead architectural decision-making
-
-**Technical Leadership**
-- Mentor junior developers
-- Establish code quality standards
-- Own high-impact technical initiatives
-
-**Performance Optimization**
-- Debug production bottlenecks systematically
-- Implement caching and database strategies
-- Achieve 10x+ performance improvements
-
-**Enterprise-Grade Solutions**
-- Build compliant systems (HIPAA-adjacent)
-- Implement security best practices
-- Design for reliability and fault tolerance
-
----
-
-## 🌍 Connect
-
-**[LinkedIn](https://linkedin.com/in/nshimyumukiza-fabrice-b55751256)** · 
-**[GitHub](https://github.com/mukizafabrice)** · 
-**[Portfolio](https://fabrice250.netlify.app)** · 
-**[Email](mailto:mukizafabrice18@gmail.com)**
-
----
-
-## 📚 Currently Learning
-
-- 🎓 Computer Science @ University of the People
-- 🎓 Information Technology @ RP Ngoma College
-- 🤖 AI/ML in enterprise systems (Python)
-- 📈 Advanced distributed systems & architecture
-
----
-
-**"Building systems that scale, systems that matter."**
+Make the final result look like a profile of a professional software engineer working in modern technology companies.
