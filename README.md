@@ -1,85 +1,311 @@
-<h1 align="center">Hi 👋, I'm Fabrice Nshimyumukiza</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Systems Thinker</h3>
+<div align="center">
+
+# 👨‍💻 Fabrice Nshimyumukiza
+
+### 🎯 Senior Full-Stack Developer | 🏗️ Systems Architect | 🚀 Tech Lead
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mukizafabrice&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/mukizafabrice)
+[![GitHub Followers](https://img.shields.io/github/followers/mukizafabrice?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/mukizafabrice)
+[![GitHub Stars](https://img.shields.io/github/stars/mukizafabrice?label=Stars&style=for-the-badge&color=00D9FF)](https://github.com/mukizafabrice)
+
+---
+
+## 🌟 About Me
+
+> **"Building enterprise systems that scale, systems that matter."** 🚀
+
+I'm a **Full-Stack Developer & Systems Architect** crafting **production-grade solutions** for healthcare, fintech, and enterprise platforms. With **5+ years of hands-on experience**, I specialize in designing scalable architectures, leading technical teams, and solving complex business problems through elegant code.
+
+### 💡 What Drives Me
+- 🏥 Building **healthcare information systems** that impact lives
+- 🎯 Designing **enterprise architectures** that scale to millions
+- 👨‍🏫 Mentoring developers & raising engineering standards
+- 🔧 Optimizing systems to **10x performance**
+- 🤖 Exploring **AI/ML applications** in enterprise solutions
+
+---
+
+## 🎖️ Core Competencies
+
+| 🏛️ Architecture | ⚙️ Backend | 🎨 Frontend | 🚀 DevOps |
+|---|---|---|---|
+| System Design | Performance Optimization | React Mastery | Docker & Kubernetes |
+| Scalability Patterns | Distributed Systems | State Management | CI/CD Pipelines |
+| Database Architecture | API Design | UX/UI Integration | Cloud Infrastructure |
+| Microservices | Caching Strategies | Mobile Dev (RN) | Monitoring & Logging |
+
+---
+
+## 💼 Professional Experience
+
+### 🔝 **Senior Backend Developer** @ Spiderbit Ltd
+**2021 – Present** | Kigali, Rwanda
+
+> Leading technical initiatives for enterprise healthcare & business systems
+
+✨ **Achievements:**
+- 📈 **40% performance boost** in healthcare EMR queries through database optimization
+- 🏢 Architected **multi-tenant infrastructure** supporting 15+ healthcare facilities  
+- 👥 **Mentored 3+ junior developers**, establishing code excellence standards
+- 🔐 Implemented **HIPAA-adjacent compliance** for patient data protection
+- ⚡ Reduced **CI/CD deployment time** from 30 min → 5 min (6x improvement)
+- 💾 Optimized database schemas reducing **storage costs by 30%**
+
+**Tech Stack:** Frappe · ERPNext · Node.js · PostgreSQL · Python · Docker
+
+---
+
+### 🎯 **Full-Stack Developer** @ Spiderbit Ltd
+**2021 – Present** | Kigali, Rwanda
+
+> Delivering end-to-end solutions from architecture to production
+
+✨ **Achievements:**
+- 🚀 Deployed **8+ production applications** (React + Node.js + Frappe)
+- 🤖 Built automation system replacing manual Google Sheets workflows (saved **5+ hours/week**)
+- 📊 Created **real-time analytics dashboards** for car rental & clinic operations
+- 🎨 Architected **responsive multi-portal platforms** with complex role-based access
+
+**Tech Stack:** React · Node.js · MongoDB · Tailwind CSS · REST APIs
+
+---
+
+### 💰 **Freelance Full-Stack Developer**
+**2020 – Present** | Global
+
+> Serving startups & enterprises across Africa
+
+✨ **Portfolio:**
+- ✅ **12+ completed projects** across healthcare, transportation, cooperatives
+- 💵 **Project range:** $2K–$8K USD  
+- 😊 **Client satisfaction:** 98% retention rate
+- 🌍 **Sectors:** Healthcare · Finance · E-commerce · NGOs
+
+**Tech Stack:** Full modern stack (see below)
+
+---
+
+## 🏆 Featured Projects
+
+### 🏥 **Rwanda MOH EMR System**
+*Electronic Medical Records Platform for National Health Deployment*
+
+**Status:** 🔴 In Active Development  
+**Scale:** Designed for 1000+ healthcare facilities nationwide
+
+```
+🔧 Tech: Frappe/ERPNext · Python · PostgreSQL · Docker · CI/CD
+🎯 Role: Lead Architect & Backend Developer
+📊 Impact: 
+   • Secure patient data workflows (500K+ patient records)
+   • Role-based access control with audit logging
+   • Integration with national health information system
+   • Real-time clinic reporting & analytics
+```
+
+**[→ View Repository](https://github.com/mukizafabrice/moh-emr)**
+
+---
+
+### 🚗 **Tira Car Rental Platform**
+*Multi-Portal Vehicle Fleet Management System*
+
+**Status:** 🟢 Live & Production  
+**Scale:** 100+ daily bookings · 99.2% uptime
+
+```
+🔧 Tech: React + Vite · Node.js · MongoDB · Tailwind CSS · Stripe
+🎯 Role: Lead Frontend Architect & Full-Stack Developer
+📊 Impact:
+   • Multi-role system (Admin · Driver · Customer)
+   • Real-time fleet tracking & availability
+   • Seamless payment integration
+   • Automated booking workflows
+```
+
+**[→ View Repository](https://github.com/mukizafabrice/tira-car-rental)** | **[→ Live Demo](https://tira-car-rental.com)**
+
+---
+
+### 🤝 **UBridge - Cooperative Governance**
+*Digital Platform for Cooperative Management & Democratic Processes*
+
+**Status:** 🟢 Live & Deployed  
+**Scale:** 150+ active cooperative members across Musanze District
+
+```
+🔧 Tech: React · Node.js · MongoDB · Frappe · Tailwind CSS
+🎯 Role: Lead Architect (University Dissertation)
+📊 Impact:
+   • Voting & democratic governance workflows
+   • Member communication hub
+   • Financial tracking & transparency
+   • Real-time notifications & updates
+```
+
+**[→ View Repository](https://github.com/mukizafabrice/ubridge)**
+
+---
+
+### 🏥 **Max Cure Clinic Management**
+*Integrated Healthcare Facility Operations Platform*
+
+**Status:** 🟢 Live  
+**Scale:** 500+ patient records · 50+ staff members
+
+```
+🔧 Tech: Frappe/ERPNext · Python · PostgreSQL
+🎯 Role: Full-Stack Developer & System Designer
+📊 Impact:
+   • 85% reduction in manual data entry
+   • Automated patient scheduling
+   • Lab results workflow management
+   • Integrated billing & invoicing
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 🎯 **Expert Level** (Deep Mastery)
+```
+JavaScript · TypeScript · React · Node.js · Frappe/ERPNext
+System Architecture · Database Design · REST APIs
+```
+
+### ⚡ **Advanced** (Production Ready)
+```
+Python · PHP · React Native · PostgreSQL · MongoDB · Docker
+Microservices · Performance Optimization · Redis Caching
+```
+
+### 🚀 **Proficient** (Solid Foundation)
+```
+Java · Kubernetes · AWS · GCP · CI/CD · Linux
+GraphQL · Message Queues · Event-Driven Architecture
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukizafabrice&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mukizafabrice?label=Followers&style=flat&color=0e75b6" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/mukizafabrice?label=Stars&style=flat&color=0e75b6" alt="stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukizafabrice&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Bring to Senior Roles
 
-I am a **Full-Stack Developer** with a strong interest in **scalable systems, ERP platforms, and AI-driven solutions**.  
-I enjoy building practical software that solves real-world problems, particularly in **business, finance, and enterprise systems**.
+### 🏗️ **System Design & Architecture**
+- Design **scalable, maintainable systems** from scratch
+- Make **technology trade-off decisions** balancing performance, complexity, and team velocity
+- Lead **architectural reviews** with clear documentation
 
-- 💻 **Tech Stack:** Node.js, React.js, React Native, PHP, Java, JavaScript, TypeScript, Frappe, Python (AI)
-- 🌱 Currently deepening expertise in **Frappe Framework & ERPNext**
-- 🎓 Studying **Information Technology** at *RP Ngoma College* and **Computer Science** at *University of the People*
-- 📧 Email: **mukizafabrice18@gmail.com**
+### 👥 **Technical Leadership**
+- Mentor junior developers and establish **engineering standards**
+- Conduct thorough **code reviews** with constructive, growth-focused feedback
+- Take ownership of **high-impact initiatives** from conception to production
+
+### ⚡ **Performance Optimization**
+- Debug **production bottlenecks** systematically (queries, APIs, rendering)
+- Implement **caching strategies** and database optimization
+- Achieve **10x+ performance improvements** in real-world systems
+
+### 🔐 **Enterprise-Grade Solutions**
+- Build systems handling **compliance requirements** (HIPAA, data privacy)
+- Implement **security best practices** at every layer
+- Design systems for **reliability and fault tolerance**
+
+### 🌐 **Full-Stack Mastery**
+- Understand systems **end-to-end** from database to user interface
+- Make **informed decisions** across all technical layers
+- Bridge silos between **frontend, backend, and DevOps** teams
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nshimyumukiza-fabrice-b55751256" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="26"/>
+  <a href="https://linkedin.com/in/nshimyumukiza-fabrice-b55751256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/fabr1ce_r/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="26"/>
+  <a href="https://github.com/mukizafabrice" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://fabrice250.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mukizafabrice18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 📚 Latest Learning & Focus
+
+🔬 **Currently Deepening:**
+- 🎓 **Computer Science** @ University of the People  
+- 🎓 **IT** @ RP Ngoma College  
+- 🤖 AI/ML applications in enterprise systems (Python)
+- 📈 Advanced system architecture & distributed systems design
+
+---
+
+## 🎯 My Development Philosophy
+
+```
+1️⃣  First, understand the PROBLEM
+2️⃣  Then, design the SOLUTION  
+3️⃣  Write clean, maintainable CODE
+4️⃣  Ship reliable, PRODUCTION-READY systems
+5️⃣  Measure impact, CONTINUOUSLY IMPROVE
+```
+
+---
+
+## 🚀 Recent Highlights
+
+| 📅 | 🎯 | ⭐ |
+|---|---|---|
+| **2024** | Led MOH EMR architecture initiative | Scaling to national deployment |
+| **2024** | Optimized healthcare system performance | **40% faster queries** |
+| **2023** | Built Tira car rental platform | **99.2% uptime** in production |
+| **2023** | Deployed UBridge for cooperative governance | **150+ active users** |
+| **2022** | Established engineering standards at Spiderbit | Mentored **3+ developers** |
+
+---
+
+## 💬 Open To
+
+- 🚀 **Senior/Staff Developer roles** (Remote or Kigali-based)
+- 🎯 **System Architecture & Design** projects
+- 👥 **Technical Mentorship** & knowledge sharing
+- 🤝 **Open Source** contributions
+- 💡 **Interesting technical challenges** you're solving
+
+---
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/react-native-555942.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-1174936.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/php-99-1175127.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/java-22-225997.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/git-18-1175219.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/tailwindcss-1174974.png" width="40"/>
-  <img src="https://cdn.simpleicons.org/frappe/0089FF" width="40"/>
+  <strong>✨ Simplicity on the outside, Excellence on the inside ✨</strong>
+</p>
+
+<p align="center">
+  <a href="https://fabrice250.netlify.app"><strong>📂 View Full Portfolio</strong></a> • 
+  <a href="https://github.com/mukizafabrice"><strong>💻 GitHub Profile</strong></a> • 
+  <a href="mailto:mukizafabrice18@gmail.com"><strong>📧 Let's Talk</strong></a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&theme=default&cache_seconds=86400" />
+  <img src="https://komarev.com/ghpvc/?username=mukizafabrice&color=00D9FF&style=flat-square" alt="Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukizafabrice&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&theme=default" />
-</p>
-
-
----
-
-## 🧠 Focus Areas
-
-- Enterprise Systems (ERP, Frappe, ERPNext)
-- Full-Stack Web & Mobile Development
-- AI & Automation with Python
-- Scalable APIs & System Design
-
----
-
-<p align="center">
-  <strong>“Building systems, not just applications.”</strong>
-</p>
+</div>
