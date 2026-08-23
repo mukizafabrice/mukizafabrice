@@ -1,122 +1,127 @@
-# Fabrice Nshimyumukiza
 
-**Full-Stack Developer | AI Enthusiast | Systems Engineer**
+        
+           Copy Markdown
+        
+        <!-- ========================================================
+  🚀 GitHub Profile README — The Modern Frontend Engineer
+  Copy this file into your [username]/[username] repository!
+  Replace all placeholder values with your own information.
+  ======================================================== -->
 
-Software engineer building enterprise systems, scalable backends, and AI-driven automation. I ship production-grade platforms on Frappe/ERPNext and modern JavaScript stacks.
+# Hi there, I'm Fabrice! 👋🚀
 
-Kigali, Rwanda · Open to remote
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+React+Specialist;Open+Source+Contributor;UI%2FUX+Enthusiast;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nshimyumukiza-fabrice-b55751256)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://fabrice250.netlify.app)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mukizafabrice18@gmail.com)
-
----
-
-## About
-
-I design and build software that solves real business problems — full-stack web development, ERP systems, and backend architecture across the healthcare and business domains.
-
-- Enterprise systems on Frappe / ERPNext
-- Scalable backend architecture and API design
-- Full-stack web and mobile development
-- AI and workflow automation with Python
-- Database design and performance tuning
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Enterprise**
-
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=erpnext&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-portfolio.dev">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
-## Featured Projects
+## 🧑‍💻 About Me
 
-### Healthcare Information System
-EMR and clinic management on Frappe/ERPNext — patient records, appointments, lab workflows, and billing with role-based access.
+- 🔭 Currently building **scalable UI architectures** with React 18 & Next.js 14
+- 🌱 Deep-diving into **Web Performance, Core Web Vitals, and Edge Computing**
+- 💡 Passionate about **Developer Experience (DX)**, design systems, and open source
+- 🎯 2024 Goal: Contribute to **50+ open source projects** and ship my SaaS product
+- ☕ Fuel: **Specialty coffee** and lo-fi beats
+- 📫 Reach me: **alex@yourportfolio.dev**
 
-`Frappe/ERPNext` · `Python` · `MySQL`  
-[Repository](https://github.com/mukizafabrice)
-
-### Enterprise Management System
-Multi-module business platform for inventory, operations, and reporting with a scalable multi-tenant architecture.
-
-`Laravel` · `PHP` · `MySQL`  
-[Repository](https://github.com/mukizafabrice)
-
-### AI Automation Suite
-Python automation tools for workflow optimization and data processing, cutting manual operations through intelligent pipelines.
-
-`Python` · `Automation` · `REST APIs`  
-[Repository](https://github.com/mukizafabrice)
-
-### Web Application Platform
-Full-stack app with a React frontend and Node.js backend — authentication, real-time data, responsive design.
-
-`React` · `Node.js` · `MongoDB`  
-[Repository](https://github.com/mukizafabrice)
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
-## Engineering Focus
+## 🛠️ Tech Stack & Tools
 
-- Scalable web and mobile applications
-- Enterprise software and ERP solutions
-- Clean backend architectures
-- Automation and workflow systems
-- AI-powered features and tooling
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=06b6d4&text_color=8b949e" alt="GitHub contribution stats card" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=8b949e" alt="GitHub top languages card" />
 
-![Fabrice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukizafabrice&hide_border=true&theme=github-dark-blue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981" alt="GitHub Streak" />
+</p>
 
 ---
 
-## Contact
+## 🏆 GitHub Trophies
 
-- **LinkedIn** — [nshimyumukiza-fabrice](https://linkedin.com/in/nshimyumukiza-fabrice-b55751256)
-- **GitHub** — [@mukizafabrice](https://github.com/mukizafabrice)
-- **Email** — [mukizafabrice18@gmail.com](mailto:mukizafabrice18@gmail.com)
-- **Portfolio** — [fabrice250.netlify.app](https://fabrice250.netlify.app)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Stars |
+|---------|-------------|-------|-------|
+| [⚡ UIForge](https://github.com/your-username/uiforge) | Open-source React component library with 50+ accessible components | React, TypeScript, Storybook | ⭐ 1.2k |
+| [🔗 LinkDrop](https://github.com/your-username/linkdrop) | Beautiful bookmark manager with AI-powered categorization | Next.js, OpenAI, Prisma | ⭐ 847 |
+| [🎨 ThemeStudio](https://github.com/your-username/themestudio) | Visual CSS variable editor for design systems | Vue, Vite, IndexedDB | ⭐ 534 |
+
+---
+
+## ⏰ Wakatime Coding Activity (Last 30 Days)
+
+```text
+JavaScript   ████████████░░░░░░░░░░░░░   48.23 %
+TypeScript   ██████░░░░░░░░░░░░░░░░░░░   22.14 %
+CSS/SCSS     ████░░░░░░░░░░░░░░░░░░░░░   14.87 %
+JSON         ██░░░░░░░░░░░░░░░░░░░░░░░    9.41 %
+Markdown     █░░░░░░░░░░░░░░░░░░░░░░░░    5.35 %
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-username">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee button" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/your-username">your-username</a> — Happy coding! 🚀</i>
+</p>
+      
