@@ -1,7 +1,7 @@
-# Hi there, I'm Fabrice! 👋
+# Hi there, I'm Fabrice
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Frappe+%26+ERPNext;Health+Tech+for+Rwanda;Python+%7C+PHP+%7C+TypeScript;Mobile+apps+with+React+Native;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Frappe+%26+ERPNext;Health+Tech+for+Rwanda;Python+%7C+PHP+%7C+TypeScript;Mobile+apps+with+React+Native" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,20 +18,17 @@
   <img src="https://komarev.com/ghpvc/?username=mukizafabrice&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
----
+## About Me
 
-## 🧑‍💻 About Me
+I build the software that clinics and public institutions in Rwanda actually run on. Most of my work lives in electronic medical records and claim management systems, built on Frappe and ERPNext, where a slow form or a broken workflow means a real person waiting longer than they should.
 
-- 🏥 Software developer building healthcare and financial systems on **Frappe / ERPNext**
-- 🔭 Currently working on **EMR platforms and claim management workflows** used by clinics and public health institutions in Rwanda
-- 🧱 Full stack: **Python and PHP** on the server, **Node.js and TypeScript** on the client
-- 🌱 Studying **BSc Computer Science** at the University of the People (expected 2027)
-- 🌍 Based in **Kigali, Rwanda** — Kinyarwanda (native), English
-- 📫 Reach me: **mukizafabrice18@gmail.com**
+That constraint shapes how I work. I spend as much time on the data model and the approval logic as I do on the interface, because in this kind of system the edge cases are the job. A claim that gets stuck between review and settlement, a patient record that two departments need to see differently, a report the ministry needs in a format nobody documented. Those are the problems I find interesting.
 
----
+Day to day I write Python and PHP on the server and TypeScript on the client, and I am comfortable moving between them. Right now I am deepening my mobile work with React Native and finishing a BSc in Computer Science through the University of the People.
 
-## 🛠️ Tech Stack & Tools
+Based in Kigali. I speak Kinyarwanda and English, and you can reach me at mukizafabrice18@gmail.com.
+
+## Tech Stack and Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +46,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Data & AI
+### Data
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,12 +59,10 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mukizafabrice&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=06b6d4&text_color=8b949e" alt="GitHub contribution stats card" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mukizafabrice&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=06b6d4&text_color=8b949e" alt="GitHub contribution stats card" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=8b949e" alt="GitHub top languages card" />
 </p>
 
@@ -75,32 +70,17 @@
   <img src="https://streak-stats.demolab.com?user=mukizafabrice&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981" alt="GitHub Streak" />
 </p>
 
----
+## Education
 
-## 🏆 GitHub Trophies
+**BSc Computer Science**, University of the People, expected 2027
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukizafabrice&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</p>
+**Advanced Diploma, Information Technology**, completed 2025
 
----
-
-## 🎓 Education
-
-- **BSc Computer Science** — University of the People *(expected 2027)*
-- **Advanced Diploma, Information Technology** — *completed 2025*
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in health tech, ERP work, and anything that puts reliable software in front of people who need it. If you're working on something in that space, get in touch.
 
 <p align="center">
-  <a href="mailto:mukizafabrice18@gmail.com">mukizafabrice18@gmail.com</a> ·
+  <a href="mailto:mukizafabrice18@gmail.com">mukizafabrice18@gmail.com</a> &middot;
   <a href="https://github.com/mukizafabrice">github.com/mukizafabrice</a>
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/mukizafabrice">mukizafabrice</a> — thanks for stopping by!</i>
 </p>
