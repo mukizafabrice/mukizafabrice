@@ -74,7 +74,7 @@ You can see more of my work at [fabrice250.netlify.app](https://fabrice250.netli
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mukizafabrice&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mukizafabrice&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=f59e0b&currStreakLabel=10b981" alt="GitHub Streak" />
 </p>
 
 ## Education
