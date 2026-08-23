@@ -67,8 +67,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukizafabrice&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=06b6d4&text_color=8b949e" alt="GitHub contribution stats card" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=8b949e" alt="GitHub top languages card" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mukizafabrice&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=06b6d4&text_color=8b949e" alt="GitHub contribution stats card" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mukizafabrice&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=8b949e" alt="GitHub top languages card" />
 </p>
 
 <p align="center">
