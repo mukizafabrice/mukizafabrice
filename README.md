@@ -64,30 +64,6 @@
 
 ---
 
-## 🚀 What I've Built
-
-**Leo Heart Clinic — EMR** · `Frappe / ERPNext`
-Electronic medical record system for a cardiology clinic: patient registration, consultations, prescriptions and billing in one workflow for clinical and front-desk staff.
-
-**eBuzima — MINISANTE EMR** · `Frappe / ERPNext`
-Medical record platform for Rwanda's Ministry of Health, handling patient data capture and institutional reporting across health facilities.
-
-**SGF / Ikigega — Claim Management** · `Frappe / ERPNext`
-Claim management system covering submission, review, approval and settlement, with role-based access for the teams involved at each stage.
-
-> These are production systems, so the code isn't public. Happy to walk through the architecture and the doctype / server-script design on request.
-
-<!--
-  TODO: Once you have public repos worth featuring, swap the notes above
-  for a table like this and fill in the real numbers:
-
-  | Project | Description | Stack |
-  |---------|-------------|-------|
-  | [name](https://github.com/mukizafabrice/name) | one line | Frappe, Python |
--->
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
